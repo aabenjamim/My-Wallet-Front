@@ -43,7 +43,7 @@ export const Form = styled.form`
 `
 
 export const Container = styled.div`
-    height: 100vw;
+    height: 100%;
     margin-top: 95px;
     display: flex;
     flex-direction: column;
