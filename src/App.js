@@ -4,8 +4,8 @@ import GlobalStyle from './style/GlobalStyle'
 import Login from "./pages/Login/Login"
 import Cadastro from './pages/Login/Cadastro'
 import Home from "./pages/Home/Home"
-import Entrada from "./pages/Entrada"
-import Saida from "./pages/Saida"
+import Entrada from "./pages/Buttons/Entrada"
+import Saida from "./pages/Buttons/Saida"
 
 
 export default function App() {
